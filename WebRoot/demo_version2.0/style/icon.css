@@ -1,0 +1,464 @@
+.icon-cog {
+	background-image: url(../images/cog.png) !important;
+}
+
+.icon-connect {
+	background-image: url(../images/connect.png) !important;
+}
+
+.icon-folder_go {
+	background-image: url(../images/folder_go.png) !important;
+}
+
+.icon-application_go {
+	background-image: url(../images/application_go.png) !important;
+}
+
+.icon-control_rewind{
+	background-image: url(../images/control_rewind.png) !important;
+}
+
+.icon-plugin{
+	background-image: url(../images/plugin.gif) !important;
+}
+
+.icon-delete{
+	background-image: url(../images/delete.gif) !important;
+}
+
+.icon-editable{
+	background-image: url(../images/editable.png) !important;
+}
+
+.icon-add{
+	background-image: url(../images/add.png) !important;
+}
+
+.icon-point-enable{
+	background-image: url(../images/Point.png) !important;
+}
+
+.icon-point-disable{
+	background-image: url(../images/Point_1.png) !important;
+}
+
+.icon-line-enable{
+	background-image: url(../images/Polyline.png) !important;
+}
+
+.icon-line-disable{
+	background-image: url(../images/Polyline_1.png) !important;
+}
+
+.icon-region-enable{
+	background-image: url(../images/Polygon.png) !important;
+}
+
+.icon-region-disable{
+	background-image: url(../images/Polygon_1.png) !important;
+}
+
+.icon-accept{
+	background-image: url(../images/accept.png) !important;
+}
+
+.icon-entire{
+	background-image: url(../images/8.png) !important;
+}
+
+.icon-cross{
+	background-image: url(../images/cross.gif) !important;
+}
+
+.icon-visible{
+	background-image: url(../images/visible.png) !important;
+}
+
+.icon-visible1{
+	background-image: url(../images/visible1.png) !important;
+}
+
+.icon_heightMeasuer_click{
+	background-size:16;
+	background-image: url(../images/heightMeasure_click.png) !important;
+}
+
+.icon_areaMeasuer_click{
+	background-size:16;
+	background-image: url(../images/areaMeasure_click.png) !important;
+}
+
+.icon_measure_distance_press{
+	background-size:16;
+	background-image: url(../images/measure_distance_press.png) !important;
+}
+
+.icon_line{
+	background-image: url(../images/line.png) !important;
+}
+
+.icon_region{
+	background-size:16;
+	background-image: url(../images/Polygon.png) !important;
+}
+
+.icon_region{
+	background-size:16;
+	background-image: url(../images/10.png) !important;
+}
+
+.icon_closeTable{
+	background-size:13;
+	background-image: url(../images/closeTable.png) !important;
+}
+
+.icon_application_view_list{
+	background-image: url(../images/application_view_list.png) !important;
+}
+
+.icon_grid{
+	background-image: url(../images/grid.png) !important;
+}
+
+.icon_shadow{
+	background-image: url(../images/7.png) !important;
+}
+
+.icon_sunNoVisible{
+	background-image: url(../images/SunNoVisible.png) !important;
+}
+
+.icon_sunVisible{
+	background-image: url(../images/SunVisible.png) !important;
+}
+
+.icon_play{
+	background-image: url(../images/Play.png) !important;
+}
+
+.icon_stop{
+	background-image: url(../images/Stop.png) !important;
+}
+
+.icon_pause{
+	background-image: url(../images/Pause.png) !important;
+}
+
+.icon_dataset{
+	background-size:16;
+	background-image: url(../images/Dataset.png) !important;
+}
+
+.icon_measureWindy{
+	background-size:16;
+	background-image: url(../images/MeasureWindy.png) !important;
+}
+
+.icon_windyClear{
+	background-image: url(../images/WindyClear.png) !important;
+}
+
+.icon_cad{
+	background-image: url(../images/dataType/CAD.png) !important;
+}
+
+.icon_fence{
+	background-image: url(../images/dataType/fence.png) !important;
+}
+
+.icon_image{
+	background-image: url(../images/dataType/image.png) !important;
+}
+
+.icon_kml{
+	background-image: url(../images/dataType/kml.png) !important;
+}
+
+.icon_line2D{
+	background-image: url(../images/dataType/Line2D.png) !important;
+}
+
+.icon_line3D{
+	background-image: url(../images/dataType/Line3D.png) !important;
+}
+
+.icon_overlay{
+	background-image: url(../images/dataType/Overlay.png) !important;
+}
+
+.icon_point2D{
+	background-image: url(../images/dataType/PointStyle.PNG) !important;
+}
+
+.icon_point3D{
+	background-image: url(../images/dataType/Point3D.png) !important;
+}
+
+.icon_region2D{
+	background-image: url(../images/dataType/Geometry2D.png) !important;
+}
+
+.icon_region3D{
+	background-image: url(../images/dataType/Polygon3D.png) !important;
+}
+
+.icon_text{
+	background-image: url(../images/dataType/labelTheme.png) !important;
+}
+
+.icon_scene{
+	background-image: url(../images/Scene.png) !important;
+}
+
+.icon_style{
+	background-image: url(../images/StyleTemplate.png) !important;
+}
+
+.icon_measure{
+	background-image: url(../images/Measure.png) !important;
+}
+
+.icon_analyst{
+	background-size:16;
+	background-image: url(../images/AnalystSetting.png) !important;
+}
+
+.icon_sceneRoutePlay{
+	background-image: url(../images/flyManagement/SceneRoutePlay.png) !important;
+}
+
+.icon_newRoute{
+	background-size:16;
+	background-image: url(../images/flyManagement/NewRoute.png) !important;
+}
+
+.icon_deleteRoute{
+	background-image: url(../images/flyManagement/DeleteRoute.png) !important;
+}
+
+.icon_model{
+	background-size:16;
+	background-image: url(../images/model.png) !important;
+}
+
+.icon_image_add{
+	background-image: url(../images/image_add.png) !important;
+}
+
+.icon_cog_edit{
+	background-image: url(../images/cog_edit.png) !important;
+}
+
+.icon_selectable{
+	background-image: url(../images/selectable.png) !important;
+}
+
+.icon_selectable1{
+	background-image: url(../images/selectable1.ico) !important;
+}
+
+.icon_unselectable{
+	background-image: url(../images/unselectable.png) !important;
+}
+
+.icon_routeSubtraction{
+	background-image: url(../images/flyManagement/control_rewind_blue.png) !important;
+}
+
+.icon_routeStop{
+	background-image: url(../images/flyManagement/control_stop_blue.png) !important;
+}
+
+.icon_routePlus{
+	background-image: url(../images/flyManagement/control_fastforward_blue.png) !important;
+}
+
+.flag_red{
+	background-image: url(../images/flyManagement/flag_red.png) !important;
+}
+
+.icon_flag_blue{
+	background-image: url(../images/flyManagement/flag_blue.png) !important;
+}
+
+.icon_routePlay{
+	background-image: url(../images/flyManagement/control_play_blue.png) !important;
+}
+
+.icon_routePause{
+	background-image: url(../images/flyManagement/control_pause_blue.png) !important;
+}
+
+.icon_wenhao{
+	background-image: url(../images/wenhao.png) !important;
+}
+
+.icon_tick{
+	background-image: url(../images/tick.png) !important;
+}
+
+.icon_wrench{
+	background-image: url(../images/wrench.png) !important;
+}
+
+.icon_wrench_orange{
+	background-image: url(../images/wrench_orange.png) !important;
+}
+
+.icon_zoom{
+	background-image: url(../images/zoom.png) !important;
+}
+
+.icon_settings{
+	background-image: url(../images/icon_settings.gif) !important;
+}
+
+.icon_wand{
+	background-image: url(../images/icon_wand.gif) !important;
+}
+
+.icon_webDataBase16{
+	background-size:16;
+	background-image: url(../images/webDataBase16.png) !important;
+}
+
+.icon_sceneProperty{
+	background-size:17;
+	background-image: url(../images/SceneProperty.png) !important;
+}
+
+.icon_sunManager{
+	background-image: url(../images/SunManager.png) !important;
+}
+
+.icon_text_signature{
+	background-image: url(../images/text_signature.png) !important;
+}
+
+.icon_distance{
+	background-image: url(../images/Distance.png) !important;
+}
+
+.icon_terrainDistance{
+	background-image: url(../images/TerrainDistance.png) !important;
+}
+
+.icon_area{
+	background-image: url(../images/Area.png) !important;
+}
+
+.icon_terrainArea{
+	background-image: url(../images/TerrainArea.png) !important;
+}
+
+.icon_altitude{
+	background-image: url(../images/Altitude.png) !important;
+}
+
+.icon_horizontal_distance{
+	background-size:16;
+	background-image: url(../images/horizontal_distance.png) !important;
+}
+
+.icon_image_findPath{
+	background-image: url(../images/Image_FindPath.png) !important;
+}
+
+.icon_image_sightline{
+	background-image: url(../images/Image_Sightline.png) !important;
+}
+
+.icon_image_viewshed3D{
+	background-image: url(../images/Image_Viewshed3D.png) !important;
+}
+
+.icon_image_skyline{
+	background-image: url(../images/Image_Skyline.png) !important;
+}
+
+.icon_image_slope{
+	background-image: url(../images/Image_Slope.png) !important;
+}
+
+.icon_shading{
+	background-image: url(../images/shading.png) !important;
+}
+
+.icon_spaceArea{
+	background-size:16;
+	background-image: url(../images/spaceArea.png) !important;
+}
+
+.icon_vector{
+	background-size:17;
+	background-image: url(../images/vector.png) !important;
+}
+
+.icon_camera_add{
+	background-image: url(../images/flyManagement/camera_add.png) !important;
+}
+
+.icon_camera_edit{
+	background-image: url(../images/flyManagement/camera_edit.png) !important;
+}
+
+.icon_mouse_add{
+	background-image: url(../images/flyManagement/mouse_add.png) !important;
+}
+
+.icon_mouse{
+	background-image: url(../images/flyManagement/mouse.png) !important;
+}
+
+.icon_folder{
+	background-image: url(../images/folder.gif) !important;
+}
+
+.icon_layers{
+	background-image: url(../images/layers.png) !important;
+}
+
+.icon_map{
+	background-image: url(../images/map.png) !important;
+}
+
+.icon_graphTemplate{
+	background-size:17;
+	background-image: url(../images/osgb/GraphTemplate.png) !important;
+}
+
+.icon_bar{
+	background-size:17;
+	background-image: url(../images/osgb/Bar.png) !important;
+}
+
+.icon_area{
+	background-size:17;
+	background-image: url(../images/osgb/Area.png) !important;
+}
+
+.icon_step{
+	background-size:17;
+	background-image: url(../images/osgb/Step.png) !important;
+}
+
+.icon_rasterUnique{
+	background-size:17;
+	background-image: url(../images/osgb/RasterUnique.png) !important;
+}
+
+.icon_down{
+	background-image: url(../images/down.png) !important;
+}
+
+.icon_up{
+	background-image: url(../images/up.png) !important;
+}
+
+.icon_options{
+	background-image: url(../images/options.png) !important;
+}
+
+.icon_time{
+	background-image: url(../images/time.png) !important;
+}

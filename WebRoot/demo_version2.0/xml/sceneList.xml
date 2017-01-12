@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sceneList>
+	<!-- <scene>
+	    <name>SuperMap三维服务</name>
+	    <imageUrl>demo_version2.0/images/layerGuide/niaochao.png</imageUrl>
+		<sceneUrl>http://beta.isupermap.com/realspace/services/realspace-Demo1/rest/realspace</sceneUrl>
+		<sceneName>scene</sceneName>
+		<layerName>World</layerName>
+		<type>iserver</type>
+	</scene>
+	 -->
+	<scene>
+	    <name>天地图底图</name>
+	    <imageUrl>demo_version2.0/images/sceneList/tianditu.png</imageUrl>
+		<sceneUrl>http://t0.tianditu.com/vec_c/wmts</sceneUrl>
+		<layerName>vec</layerName>
+		<type>WMTS</type>
+	</scene>
+	<scene>
+	    <name>天地图中文注记</name>
+	    <imageUrl>demo_version2.0/images/sceneList/mapChinese.png</imageUrl>
+		<sceneUrl>http://t0.tianditu.com/cva_c/wmts</sceneUrl>
+		<layerName>cva</layerName>
+		<type>WMTS</type>
+	</scene>
+	<scene>
+	    <name>天地图英文注记</name>
+	    <imageUrl>demo_version2.0/images/sceneList/mapEnglish.png</imageUrl>
+		<sceneUrl>http://t0.tianditu.com/eva_c/wmts</sceneUrl>
+		<layerName>eva</layerName>
+		<type>WMTS</type>
+	</scene>
+	<scene>
+	    <name>天地图影像底图</name>
+	    <imageUrl>demo_version2.0/images/sceneList/imageMap.png</imageUrl>
+		<sceneUrl>http://t0.tianditu.com/img_c/wmts</sceneUrl>
+		<layerName>img</layerName>
+		<type>WMTS</type>
+	</scene>
+	<scene>
+	    <name>天地图影像中文注记</name>
+	    <imageUrl>demo_version2.0/images/sceneList/imageChinese.png</imageUrl>
+		<sceneUrl>http://t0.tianditu.com/cia_c/wmts</sceneUrl>
+		<layerName>cia</layerName>
+		<type>WMTS</type>
+	</scene>
+	<scene>
+	    <name>天地图影像英文注记</name>
+	    <imageUrl>demo_version2.0/images/sceneList/imageEnglish.png</imageUrl>
+		<sceneUrl>http://t0.tianditu.com/eia_c/wmts</sceneUrl>
+		<layerName>eia</layerName>
+		<type>WMTS</type>
+	</scene>
+</sceneList>

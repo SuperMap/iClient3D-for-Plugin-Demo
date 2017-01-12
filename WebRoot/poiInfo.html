@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>noInfo.htm</title>
+	
+    <meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
+    <meta http-equiv="description" content="this is my page">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    <script language="javascript"> 
+		function getRequest() { 
+			var url = location.search; //获取url中"?"符后的字串 
+			url = decodeURI(url);
+			var theRequest = new Object(); 
+			if (url.indexOf("?") != -1) { 
+				var str = url.substr(1); 
+				strs = str.split("&"); 
+				for(var i = 0; i < strs.length; i ++) { 
+					theRequest[strs[i].split("=")[0]]=unescape(strs[i].split("=")[1]); 
+				} 
+			} 
+			return theRequest; 
+		} 
+		
+		function setCompValue(){
+			var request = getRequest(); 
+			document.getElementById('address').innerHTML = request['address']=='null'?'':'地址：'+request['address'];
+			document.getElementById('telephone').innerHTML = request['telephone']=='null'?'':'电话：'+request['telephone'];
+		}
+	</Script> 
+    
+  </head>
+  
+  <body onload=setCompValue(); style="border-top:1px solid #CCCCCC;margin:0;padding:5">
+    <div id='address' style='font-size:12px'></div><br/>
+    <div id='telephone' style='font-size:12px'></div>
+  </body>
+</html>
